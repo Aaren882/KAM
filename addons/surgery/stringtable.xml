@@ -1105,7 +1105,7 @@
         <Key ID="STR_KAT_Surgery_SIMPLE_FRACTURE_CHANCE_DESC">
             <English>Sets the chance for simple fractures. Also sets the chance for complex fractures (60% Simple = 40% Complex)</English>
             <Chinesesimp>设置简单骨折的机率,同时设置了复合骨折的机率 (60% 简单 = 40% 复杂)</Chinesesimp>
-            <Chinese>設置簡單骨折的機率,同時設置了複合骨折的機率 (60% 簡單 = 40% 複雜)</Chinese>
+            <Chinese>設置簡單骨折的機率,同時設置了開放性骨折的機率 (60% 簡單 = 40% 複雜)</Chinese>
             <Italian>Imposta la possibilità di fratture semplici. Imposta anche la possibilità di fratture complesse (60% semplice = 40% complesso)</Italian>
             <Polish>Ustawia szansę na proste złamanie. \nPonadto ustawia szansę dla skomplikowanych złamań (60% proste = 40% skomplikowane)</Polish>
             <Czech>Nastavuje šanci pro jednoduché zlomeniny. Nastavuje také šanci na složité zlomeniny (60% jednoduché = 40% složité)</Czech>
@@ -1156,7 +1156,7 @@
         <Key ID="STR_KAT_Surgery_COMPOUND_FRACTURE_CHANCE">
             <English>Compound fracture chance</English>
             <Chinesesimp>复合骨折机率</Chinesesimp>
-            <Chinese>複合骨折機率</Chinese>
+            <Chinese>開放性骨折機率</Chinese>
             <Italian>Possibilità di frattura composta</Italian>
             <Polish>Szansa na złożone złamanie</Polish>
             <Czech>Šance na otevřenou zlomeninu</Czech>
@@ -1172,7 +1172,7 @@
         </Key>
         <Key ID="STR_KAT_Surgery_COMPOUND_FRACTURE_CHANCE_DESC">
             <English>Sets the chance for compound fractures. Also sets the chance for comminuted fractures (60% Compound = 40% Comminuted)</English>
-            <Chinese>設置複合骨折的機率,同時設置粉碎性骨折的機率 (60% 複合 = 40% 粉碎)</Chinese>
+            <Chinese>設置開放性骨折的機率,同時設置粉碎性骨折的機率 (60% 複合 = 40% 粉碎)</Chinese>
             <Chinesesimp>设置复合骨折的几率,同时设置粉碎骨折的几率 (60% 复合 = 40% 粉碎)</Chinesesimp>
             <Italian>Imposta la possibilità di fratture composte. Imposta anche la possibilità di fratture comminute (60% composto = 40% sminuzzato)</Italian>
             <Polish>Ustawia szansę na złożone złamanie. \nPonadto ustawia szansę dla złamań z przemieszczeniem (60% proste = 40% z przemieszczeniem)</Polish>
