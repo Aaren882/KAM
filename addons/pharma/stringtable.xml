@@ -4260,7 +4260,7 @@
             <Spanish>Mantiene la Sutura hasta que desaparezca del Organismo</Spanish>
             <Portuguese>Sutura contínua enquanto presente no sistema</Portuguese>
             <Dutch>Blijf hechten tot uit systeem</Dutch>
-            <French>Continuer de suturer jusqu'à ce que le produit soit éliminé du système</French>
+            <French>Suturer pour supprimer le produit du système</French>
             <Italian>Continua a suturare fino all'eliminazione dal sistema</Italian>
             <German>Nähen Sie weiter, bis das System verlassen ist</German>
             <Chinesesimp>继续搅拌，直到系统崩溃</Chinesesimp>
@@ -4370,22 +4370,27 @@
         </Key>
         <Key ID="STR_KAT_Pharma_medLvl_Caffeine">
             <English>Allow using Caffeine</English>
+            <French>Autoriser l'utilisation de la caféine</French>
             <Japanese>カフェインの許可</Japanese>
         </Key>
         <Key ID="STR_KAT_Pharma_treatmentTime_Caffeine">
             <English>Treatment time for Caffeine</English>
+            <French>Temps de traitement pour la caféine</French>
             <Japanese>カフェインの所要時間</Japanese>
         </Key>
         <Key ID="STR_KAT_Pharma_medLvl_CWMP">
             <English>Allow using CWMP</English>
+            <French>Autoriser l'utilisation du CWMP</French>
             <Japanese>戦闘傷病治療薬(CWMP)の許可</Japanese>
         </Key>
         <Key ID="STR_KAT_Pharma_treatmentTime_CWMP">
             <English>Treatment time for CWMP</English>
             <Japanese>戦闘傷病治療薬(CWMP)の所要時間</Japanese>
+            <French>Temps de traitement pour le CWMP</French>
         </Key>
         <Key ID="STR_KAT_Pharma_SubCategory_CWMP">
             <English>CWMP Settings</English>
+            <French>Paramètres CWMP</French>
             <Japanese>戦闘傷病治療薬(CWMP)設定</Japanese>
         </Key>
     </Package>
