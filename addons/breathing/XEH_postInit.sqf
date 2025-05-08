@@ -5,7 +5,6 @@
 [QGVAR(handleBreathing), LINKFUNC(handleBreathing)] call CBA_fnc_addEventHandler;
 [QGVAR(hemopneumothoraxLocal), LINKFUNC(treatmentAdvanced_hemopneumothoraxLocal)] call CBA_fnc_addEventHandler;
 [QGVAR(tensionpneumothoraxLocal), LINKFUNC(treatmentAdvanced_tensionpneumothoraxLocal)] call CBA_fnc_addEventHandler;
-[QGVAR(cyanosisLocal), LINKFUNC(treatmentAdvanced_CyanosisLocal)] call CBA_fnc_addEventHandler;
 [QGVAR(nasalCannulaLocal), LINKFUNC(treatmentAdvanced_nasalCannulaLocal)] call CBA_fnc_addEventHandler;
 [QGVAR(removeNasalCannulaLocal), LINKFUNC(treatmentAdvanced_removeNasalCannulaLocal)] call CBA_fnc_addEventHandler;
 
@@ -28,7 +27,6 @@
 [QACEGVAR(medical_gui,updateInjuryListWounds), LINKFUNC(gui_updateInjuryListWounds)] call CBA_fnc_addEventHandler;
 [QACEGVAR(medical_gui,updateBodyImage), LINKFUNC(gui_updateBodyImage)] call CBA_fnc_addEventHandler;
 [QACEGVAR(medical_treatment,fullHealLocalMod), LINKFUNC(fullHealLocal)] call CBA_fnc_addEventHandler;
-[QACEGVAR(medical,woundReceived),LINKFUNC(handlePulmoHit)] call CBA_fnc_addEventHandler;
 
 private _items = missionNamespace getVariable [QGVAR(availOxyMask), "'kat_mask_solr'"];
 private _array = [_items, "CfgGlasses"] call EFUNC(chemical,getList);
